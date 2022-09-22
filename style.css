@@ -1,0 +1,9 @@
+.btn{
+    border-radius: 10px;
+}
+#sun,#mon,#tue,#wed,#thu,#fri,#sat,#av{
+    display: inline-block;
+}
+.card{
+    margin-top: 8%;
+}
